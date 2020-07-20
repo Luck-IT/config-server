@@ -1,2 +1,3 @@
-name: test-config
-age: 28
+config:
+  name: eric
+  key1: 1
