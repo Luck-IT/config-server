@@ -1,0 +1,5 @@
+app:
+  name: default
+  port: 8080
+spring:
+  prefix: hello

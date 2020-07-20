@@ -1,0 +1,5 @@
+app:
+  name: dev
+  port: 8081
+spring:
+  prefix: helloo
