@@ -1,2 +1,3 @@
-name: test-config
-age: 28
+app:
+  name: prod
+  key1: value1
